@@ -2732,3 +2732,15 @@
 4/3/2025 | 12:50:35 AM | WARN | Retrying... (0 attempts left) 
 4/3/2025 | 12:50:39 AM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/3/2025 | 12:50:39 AM | ERROR | Failed to retrieve nonce for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/3/2025 | 4:13:00 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 4:13:00 AM | INFO | Start process for wallet 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/3/2025 | 4:13:01 AM | INFO | Trying To Login for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/3/2025 | 4:13:02 AM | INFO | Login successful... 
+4/3/2025 | 4:13:02 AM | INFO | Trying to check user info... 
+4/3/2025 | 4:13:02 AM | INFO | User ID: 28335929 | Twitter: @nelitamaharani | Total Points: 1008000 
+4/3/2025 | 4:13:02 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 4:13:03 AM | INFO | Last mining time: 4/2/2025, 4:13:00 AM
+4/3/2025 | 4:13:03 AM | INFO | Trying to start Mining for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/3/2025 | 4:13:04 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 4:13:04 AM | INFO | Trying to activate mining on-chain for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/3/2025 | 4:13:10 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd9a763f8b26e81a55e8278b5cb9c814c4b336c0dc0c64c800cf122571e866156 
