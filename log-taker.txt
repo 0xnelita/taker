@@ -3110,3 +3110,15 @@
 4/9/2025 | 4:13:15 PM | INFO | Trying to check user miner status... 
 4/9/2025 | 4:13:16 PM | INFO | Last mining time: 4/8/2025, 4:13:27 PM
 4/9/2025 | 4:13:16 PM | WARN | Mining already started, next mining time is: 4/9/2025, 4:13:27 PM
+4/9/2025 | 8:11:45 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/9/2025 | 8:11:45 PM | INFO | Start process for wallet 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/9/2025 | 8:11:46 PM | INFO | Trying To Login for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/9/2025 | 8:11:47 PM | INFO | Login successful... 
+4/9/2025 | 8:11:47 PM | INFO | Trying to check user info... 
+4/9/2025 | 8:11:47 PM | INFO | User ID: 28335929 | Twitter: @nelitamaharani | Total Points: 1152000 
+4/9/2025 | 8:11:47 PM | INFO | Trying to check user miner status... 
+4/9/2025 | 8:11:48 PM | INFO | Last mining time: 4/8/2025, 4:13:27 PM
+4/9/2025 | 8:11:48 PM | INFO | Trying to start Mining for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/9/2025 | 8:11:49 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/9/2025 | 8:11:49 PM | INFO | Trying to activate mining on-chain for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/9/2025 | 8:11:55 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x7d9dba99ca4b109f87dcc9851d46ad4b9682d3a1dc43d602df9c19fcabfc72c1 
