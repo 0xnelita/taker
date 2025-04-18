@@ -3567,3 +3567,16 @@
 4/17/2025 | 4:13:19 PM | INFO | Trying to activate mining on-chain for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
 4/17/2025 | 4:17:02 PM | ERROR | Activate Mining Error: {"errno":-104,"code":"ECONNRESET","syscall":"read"}
 4/17/2025 | 4:17:02 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/17/2025 | 8:11:28 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/17/2025 | 8:11:28 PM | INFO | Start process for wallet 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/17/2025 | 8:11:29 PM | INFO | Trying To Login for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/17/2025 | 8:11:30 PM | INFO | Login successful... 
+4/17/2025 | 8:11:30 PM | INFO | Trying to check user info... 
+4/17/2025 | 8:11:31 PM | INFO | User ID: 28335929 | Twitter: @nelitamaharani | Total Points: 1344000 
+4/17/2025 | 8:11:31 PM | INFO | Trying to check user miner status... 
+4/17/2025 | 8:11:36 PM | INFO | Last mining time: 4/16/2025, 12:20:33 PM
+4/17/2025 | 8:11:36 PM | INFO | Trying to start Mining for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/17/2025 | 8:11:39 PM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+4/17/2025 | 8:11:39 PM | INFO | Trying to activate mining on-chain for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+4/17/2025 | 8:11:39 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
+4/17/2025 | 8:11:39 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
