@@ -5377,3 +5377,15 @@
 5/19/2025 | 12:58:22 AM | INFO | Trying to activate mining on-chain for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
 5/19/2025 | 1:00:37 AM | ERROR | Activate Mining Error: {"errno":-110,"code":"ETIMEDOUT","syscall":"connect","address":"101.47.19.33","port":443}
 5/19/2025 | 1:00:37 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/19/2025 | 4:19:38 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/19/2025 | 4:19:38 AM | INFO | Start process for wallet 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+5/19/2025 | 4:19:39 AM | INFO | Trying To Login for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+5/19/2025 | 4:19:39 AM | INFO | Login successful... 
+5/19/2025 | 4:19:39 AM | INFO | Trying to check user info... 
+5/19/2025 | 4:19:40 AM | INFO | User ID: 28335929 | Twitter: @nelitamaharani | Total Points: 1992000 
+5/19/2025 | 4:19:40 AM | INFO | Trying to check user miner status... 
+5/19/2025 | 4:19:41 AM | INFO | Last mining time: 5/18/2025, 12:58:03 AM
+5/19/2025 | 4:19:41 AM | INFO | Trying to start Mining for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+5/19/2025 | 4:19:41 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/19/2025 | 4:19:41 AM | INFO | Trying to activate mining on-chain for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+5/19/2025 | 4:19:51 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8563846656ae9bb84a6e810821851bf73576000a521f85e9805e53ac036b70ec 
