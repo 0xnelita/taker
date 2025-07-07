@@ -8196,3 +8196,12 @@
 7/7/2025 | 12:21:48 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 7/7/2025 | 12:21:48 PM | INFO | Trying to activate mining on-chain for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
 7/7/2025 | 12:22:48 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xd227a4df3b5e176660074f8d7a74a5b7bc9adabd08947df1639ded3bc42c4729 
+7/7/2025 | 4:13:49 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/7/2025 | 4:13:50 PM | INFO | Start process for wallet 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+7/7/2025 | 4:13:50 PM | INFO | Trying To Login for wallet: 0xC4052be1022c7eeF5a2F02dc5830d328cc74276d 
+7/7/2025 | 4:13:51 PM | INFO | Login successful... 
+7/7/2025 | 4:13:51 PM | INFO | Trying to check user info... 
+7/7/2025 | 4:13:52 PM | INFO | User ID: 28335929 | Twitter: @nelitamaharani | Total Points: 3072000 
+7/7/2025 | 4:13:52 PM | INFO | Trying to check user miner status... 
+7/7/2025 | 4:13:53 PM | INFO | Last mining time: 7/7/2025, 12:22:18 PM
+7/7/2025 | 4:13:53 PM | WARN | Mining already started, next mining time is: 7/8/2025, 12:22:18 PM
